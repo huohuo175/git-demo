@@ -2,5 +2,8 @@ hot-fix
 helloyyyyyyyyyYYppppppwqyy
 p
 p
-p
+<<<<<<< HEAD
 p master test
+=======
+p hot-fix test
+>>>>>>> hot-fix
