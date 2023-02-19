@@ -7,4 +7,5 @@ p master test
 =======
 p hot-fix test
 >>>>>>> hot-fix
+222222222 edited clone
 1111111111111111
